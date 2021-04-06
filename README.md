@@ -1,0 +1,2 @@
+# MacroUniversalSystem-MUS-
+The idea is to get a personalized keypad. We have a REST-Spring server, here will be made of queries from a web page, the REST server communicates with a socket server that emulates a macro system. We could make simple queries, an example could be creating a virtual keyboard like OSK in Windows or complex query like "press 'a' wait some millisecond and press another key "
